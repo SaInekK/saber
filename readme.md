@@ -5,9 +5,17 @@
     
     
   …
+    
+    
   {"timestamp": "2021-02-26 08:59:20", "log_level": "INFO", "message": "Hello"}
+    
+    
   {"timestamp": "2021-02-26 09:01:14", "log_level": "INFO", "message": "Crazy"}
+    
+    
   {"timestamp": "2021-02-26 09:03:36", "log_level": "INFO", "message": "World!"}
+    
+    
   …
     
 
